@@ -1,0 +1,12 @@
+fieldset{
+    margin: auto;
+border: 2px solid cadetblue;
+    width: 20px;
+    height: 50%;
+}
+legend{
+    font-weight: bolder;
+}
+button{
+    background-color: blue;
+}

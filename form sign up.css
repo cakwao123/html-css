@@ -1,0 +1,16 @@
+legend{
+    text-align:center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+form{
+    background-color: white;
+    margin-top: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 100%;
+    padding-left:2%;
+}
+body{
+    background-color: darkslateblue;
+}
